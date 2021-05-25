@@ -11,6 +11,6 @@ Pod::Spec.new do |s|
 
   s.ios.vendored_frameworks = 'Framework/GraphQLite.xcframework'
 
-  s.platform = :ios, '13.0'
+  s.platform = :ios, '10.0'
   s.requires_arc = true
 end
